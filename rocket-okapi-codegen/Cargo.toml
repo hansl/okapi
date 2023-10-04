@@ -14,7 +14,7 @@ categories = ["web-programming"]
 proc-macro = true
 
 [dependencies]
-rocket_http = { git = "https://github.com/SergioBenitez/Rocket.git" }
+rocket_http = { git = "https://github.com/SergioBenitez/Rocket.git", rev = "26a3f00f" }
 darling = "0.13"
 syn = "1.0"
 proc-macro2 = "1.0"
